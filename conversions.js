@@ -1,10 +1,10 @@
-// let number = 4321;
-// let converted = number.toString();
-// console.log(converted);
+let num = 4321;
+let converted = String(num);
+console.log(`Start with ${num} and convert it to string ${converted}`);
 
-// let stringNum = '666';
-// let conversion = parseInt('666');
-// console.log(conversion); 
+let stringNum = '666';
+let conversion = parseInt('666');
+console.log(conversion); 
 
 // convert string to array containing its characters
 let string = 'Shake'

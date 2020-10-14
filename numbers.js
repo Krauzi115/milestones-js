@@ -1,4 +1,3 @@
-// feelin hot and feelin dangerous
 
 let num1 = 1000;
 let num2= 9870;
